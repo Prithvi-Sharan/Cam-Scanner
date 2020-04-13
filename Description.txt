@@ -1,0 +1,3 @@
+The project is to recognise text from image (extract text from image) and store it in txt file (multiple imges can be done ,the name of 
+files will be file[1].txt,file[2].txt etc.) and also if you want to convert back to image after modificatio it can be done (stored by 
+file[i].txt.jpg)
